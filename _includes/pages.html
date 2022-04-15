@@ -1,0 +1,18 @@
+<h3 class="pagesLink">
+  <a href="{{ site.baseurl }}">HOME</a>
+</h3>
+{% assign pages_list = (site.pages | sort: 'index') %}
+{% for node in pages_list %}
+  {% if node.title != null %}
+    {% if node.title == "Home" %}
+      {% continue %}
+    {% endif %}
+    {% if node.layout == "page" %}
+      <h3 class="pagesLink">
+        <a href="{{ site.baseurl }}{{ node.url }}">
+          {{ node.title | upcase }}
+        </a>
+      </h3>
+    {% endif %}
+  {% endif %}
+{% endfor %}

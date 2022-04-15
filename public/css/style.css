@@ -1,0 +1,57 @@
+html {
+  background-color: #17161a;
+  font-family: "Exo", sans-serif;
+  color: snow;
+  background-image: url("/public/img/BG.png");
+  background-repeat: repeat;
+}
+
+a {
+  color: #29cccc;
+}
+
+
+.pagesLink a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+h1 a {
+  text-decoration: none;
+}
+
+article {
+  border-style: ridge;
+  border-color: snow;
+}
+
+header {
+  border-bottom: 1px solid #29cccc;
+  background-color: transparent;
+}
+
+footer {
+  border-top: 1px solid #29cccc;
+  background-color: black;
+}
+
+.footerColumn h1 {
+  font-size: 22px;
+}
+
+.footerColumn p {
+  font-size: 14px;
+}
+
+.headervidlink {
+    background-color: rgba(10,10,10,0);
+    border:2px solid rgb(31,159,161);
+    font-family:"Poppins", Helvetica, Arial, sans-serif !important; 
+    letter-spacing:2px; 
+    font-size:14px !important;
+    text-align:center;
+    font-weight:bold;
+    text-decoration: none;
+    transition: all 1s;
+    color: #FEFEFE;
+}

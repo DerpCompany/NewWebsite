@@ -20,11 +20,6 @@ h1 a {
   text-decoration: none;
 }
 
-article {
-  border-style: ridge;
-  border-color: snow;
-}
-
 header {
   border-bottom: 1px solid #29cccc;
   background-color: transparent;
@@ -44,14 +39,33 @@ footer {
 }
 
 .headervidlink {
-    background-color: rgba(10,10,10,0);
-    border:2px solid rgb(31,159,161);
-    font-family:"Poppins", Helvetica, Arial, sans-serif !important; 
-    letter-spacing:2px; 
-    font-size:14px !important;
-    text-align:center;
-    font-weight:bold;
-    text-decoration: none;
-    transition: all 1s;
-    color: #FEFEFE;
+
+}
+
+.navButton {
+  background-color: rgba(10,10,10,0);
+  border:2px solid rgb(31,159,161);
+  transition: all 1s;
+}
+
+.navButton a {
+  letter-spacing:2px;
+  font-size:14px !important;
+  text-align:center;
+  font-weight:bold;
+  text-decoration: none;
+  color: #FEFEFE;
+}
+
+.section {
+  border-top: 1px solid #29cccc;
+  border-bottom: 1px solid #29cccc;
+}
+
+.sectionColumnMain {
+  
+}
+
+.sectionColumnSub {
+  
 }

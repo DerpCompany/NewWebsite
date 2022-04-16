@@ -7,7 +7,7 @@ layout: home
     <source src="/public/video/banner-video.mp4" type="video/mp4">
   </video>
   <div id="videoHeader">
-    <a href="http://discord.derpcompany.com/" class="headervidlink">JOIN OUR DISCORD</a>
+    <img class="headervidlink" src="/public/img/logo-splash.png">
   </div>
 </div>
 <div id="content">

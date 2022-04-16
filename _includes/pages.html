@@ -1,6 +1,8 @@
-<h3 class="pagesLink">
-  <a href="{{ site.baseurl }}">HOME</a>
-</h3>
+<button class="pagesLink">
+  <h2>
+    <a href="{{ site.baseurl }}/">HOME</a>
+</h2>
+</button>
 {% assign pages_list = (site.pages | sort: 'index') %}
 {% for node in pages_list %}
   {% if node.title != null %}
@@ -8,11 +10,13 @@
       {% continue %}
     {% endif %}
     {% if node.layout == "page" %}
-      <h3 class="pagesLink">
-        <a href="{{ site.baseurl }}{{ node.url }}">
-          {{ node.title | upcase }}
-        </a>
-      </h3>
+      <button class="pagesLink">
+        <h2>
+          <a href="{{ site.baseurl }}{{ node.url }}">
+            {{ node.title | upcase }}
+          </a>
+        </h2>
+      </button>
     {% endif %}
   {% endif %}
 {% endfor %}

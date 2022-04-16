@@ -10,6 +10,10 @@ a {
   color: #29cccc;
 }
 
+.pagesLink {
+  border-style: none;
+  background-color: rgba(0,0,0,0);
+}
 
 .pagesLink a {
   text-decoration: none;

@@ -4,10 +4,10 @@ layout: home
 
 <div id="backgroundVideoContainer">
   <video autoplay muted loop id="backgroundVideo">
-    <source src="/public/video/banner-video.mp4" type="video/mp4">
+    <source src="{{ site.baseurl }}/public/video/banner-video.mp4" type="video/mp4">
   </video>
   <div id="videoHeader">
-    <img class="headervidlink" src="/public/img/logo-splash.png">
+    <img class="headervidlink" src="{{ site.baseurl }}/public/img/logo-splash.png">
   </div>
 </div>
 <div id="content">

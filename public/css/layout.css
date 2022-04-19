@@ -152,6 +152,21 @@ footer {
 }
 
 .triButton {
+  padding: 0px;
   height: 150px;
   flex-grow: 1;
+}
+
+.sectionGameCatalog {
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
+
+.sectionGameRow {
+  display: flex;
+  overflow: hidden;
+}
+
+.gameCatalogItem {
+  margin: 0px -64px;
 }

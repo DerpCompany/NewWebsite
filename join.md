@@ -8,11 +8,11 @@ index: 15
 <div class="section">
   <div class="sectionColumnMain">
     <h2>MEMBER JOIN</h2>
-    <p>We are looking for members who are interested in contributing and helping us enrich our community! If you are someone who likes to help out, host games, create content, moderate ch...</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
   </div>
   <div class="sectionColumnSub">
     <button class="navButton">
-      <a href="http://discord.derpcompany.com/">PATREON</a>
+      <a href="{{ site.baseurl }}/form/signup/">JOIN US</a>
     </button>
   </div>
 </div>
@@ -20,11 +20,11 @@ index: 15
 <div class="section">
   <div class="sectionColumnMain">
     <h2>DISCORD JOIN</h2>
-    <p>You can get the @Supporter role by donating through our site!</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
   </div>
   <div class="sectionColumnSub">
     <button class="navButton">
-      <a href="http://discord.derpcompany.com/">PATREON</a>
+      <a href="http://discord.derpcompany.com/">JOIN DISCORD</a>
     </button>
   </div>
 </div>
@@ -32,11 +32,11 @@ index: 15
 <div class="section">
   <div class="sectionColumnMain">
     <h2>VOLUNTEER</h2>
-    <p>We are looking for members who are interested in contributing and helping us enrich our community! If you are someone who likes to help out, host games, create content, moderate ch...</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
   </div>
   <div class="sectionColumnSub">
     <button class="navButton">
-      <a href="http://discord.derpcompany.com/">PATREON</a>
+      <a href="{{ site.baseurl }}/form/contact/">CONTACT US</a>
     </button>
   </div>
 </div>

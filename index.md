@@ -23,7 +23,11 @@ layout: home
     </button>
   </div>
   <div class="sectionGameCatalog">
-    <h2>GAMES WE PLAY</h2>
+    <div class="sectionNoBorder">
+      <div class="sectionColumnFullWidth">
+        <h2>GAMES WE PLAY</h2>
+      </div>
+    </div>
     <div class="sectionGameRow">
       <img class="gameCatalogItem" src="{{ site.baseurl }}/public/img/game-1.png">
       <img class="gameCatalogItem" src="{{ site.baseurl }}/public/img/game-2.png">
@@ -39,6 +43,7 @@ layout: home
   <div id="content">
     <div class="section">
       <div class="sectionColumnMain">
+        <h2>ABOUT US</h2>
         <p>The standard Lorem Ipsum passage, used since the 1500s
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."!</p>
       </div>
@@ -48,7 +53,7 @@ layout: home
     <div class="section">
       <div class="sectionColumnSub">
         <button class="navButton">
-          <a href="{{ site.baseurl }}/join/">VOLUNTEER</a>
+          <a href="{{ site.baseurl }}/support/">VOLUNTEER</a>
         </button>
       </div>
       <div class="sectionColumnMain">

@@ -1,3 +1,11 @@
+/* Define font sizes */
+
+p {
+  font-size: 16px;
+}
+
+/* Define styles */
+
 html {
   background-color: #17161a;
   font-family: "Exo", sans-serif;

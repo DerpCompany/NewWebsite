@@ -41,7 +41,7 @@ layout: home
 
 <div id="container">
   <div id="content">
-    <div class="section">
+    <div class="section hideTopBorder">
       <div class="sectionColumnMain">
         <h2>ABOUT US</h2>
         <p>The standard Lorem Ipsum passage, used since the 1500s
@@ -62,7 +62,7 @@ layout: home
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."!</p>
       </div>
     </div>
-    <div class="section">
+    <div class="section hideBottomBorder">
       <div class="sectionColumnMain">
         <iframe id="discordEmbed" src="https://discord.com/widget?id=154310693171101697&theme=dark" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
       </div>

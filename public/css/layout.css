@@ -24,7 +24,7 @@ header {
 }
 
 #container {
-  margin: 250px 0px;
+  margin: 0px 0px;
 }
 
 #content {
@@ -197,7 +197,7 @@ footer {
 
 .sectionGameCatalog {
   padding-top: 64px;
-  padding-bottom: 64px;
+  padding-bottom: 0px;
 }
 
 .sectionGameRow {

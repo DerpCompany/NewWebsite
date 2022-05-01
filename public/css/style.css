@@ -110,3 +110,11 @@ footer {
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
 }
+
+.hideTopBorder {
+  border-top: 0px;
+}
+
+.hideBottomBorder {
+  border-bottom: 0px;
+}

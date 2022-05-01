@@ -12,11 +12,11 @@ layout: home
     </div>
   </div>
   <div class="sectionTriButton">
-    <button class="triButton" style="background-image: url('{{ site.baseurl }}/public/img/games_d2.png')">
-      <a href="{{ site.baseurl }}/games/">ABOUT US</a>
-    </button>
     <button class="triButton" style="background-image: url('{{ site.baseurl }}/public/img/games_ps2.png')">
-      <a href="{{ site.baseurl }}/join/">GAME WITH US</a>
+      <a href="{{ site.baseurl }}/games/">GAME WITH US</a>
+    </button>
+    <button class="triButton" style="background-image: url('{{ site.baseurl }}/public/img/games_d2.png')">
+      <a href="{{ site.baseurl }}/join/">JOIN US</a>
     </button>
     <button class="triButton" style="background-image: url('{{ site.baseurl }}/public/img/games_r6.png')">
       <a href="{{ site.baseurl }}/support/">SUPPORT US</a>

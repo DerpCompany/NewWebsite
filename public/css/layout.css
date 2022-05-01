@@ -158,18 +158,41 @@ footer {
   height: 600px;
 }
 
-.sectionTriButton {
-  display: flex;
+@media screen and (min-width: 800px) {
+  .sectionTriButton {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: stretch;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  
+  .triButton {
+    padding: 0px;
+    flex-grow: 1;  
+  }  
 }
 
-.triButton {
-  padding: 0px;
-  flex-grow: 1;
+@media screen and (max-width: 800px) {
+  .sectionTriButton {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: stretch;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  
+  .triButton {
+    width: 100%;
+    max-width: 500px;
+    text-align: center;
+    padding: 0px;
+  }
 }
 
 .triButton a {
   display: block;
-  padding: 24px 44px;
+  padding: 44px 24px;
 }
 
 .sectionGameCatalog {
@@ -186,4 +209,5 @@ footer {
 
 .gameCatalogItem {
   margin: 0px -64px;
+  max-height: 350px;
 }

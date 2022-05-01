@@ -154,7 +154,7 @@ footer {
 
 #discordEmbed {
 	width: 100%;
-  padding: 20px;
+  padding: 0px;
   height: 600px;
 }
 
@@ -164,8 +164,12 @@ footer {
 
 .triButton {
   padding: 0px;
-  height: 150px;
   flex-grow: 1;
+}
+
+.triButton a {
+  display: block;
+  padding: 24px 44px;
 }
 
 .sectionGameCatalog {
@@ -175,8 +179,9 @@ footer {
 
 .sectionGameRow {
   display: flex;
-  overflow: hidden;
   margin-left: -150px;
+  flex-wrap: nowrap;
+  overflow-x: auto;
 }
 
 .gameCatalogItem {

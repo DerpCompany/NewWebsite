@@ -24,7 +24,7 @@ header {
 }
 
 #container {
-  margin: 50px 0px;
+  margin: 250px 0px;
 }
 
 #content {
@@ -106,12 +106,16 @@ footer {
 }
 
 .navButton {
-  padding:20px;
   margin: 20px;
+  padding:20px 0px
+}
+
+.navButton a {
+  padding:20px 20px;
 }
 
 .section {
-  padding: 32px 64px;
+  padding: 128px 32px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;

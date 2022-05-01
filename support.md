@@ -36,9 +36,6 @@ index: 10
   </div>
   <div class="sectionColumnFullWidth flexAlignCenter">
     <button class="navButton">
-      <a href="https://www.patreon.com/derpcompany">PAYPAL</a>
-    </button>
-    <button class="navButton">
       <a href="http://discord.derpcompany.com/">DISCORD</a>
     </button>
     <button class="navButton">

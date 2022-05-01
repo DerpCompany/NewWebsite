@@ -7,9 +7,14 @@ p {
 
 /* Define styles */
 
+@font-face {
+  font-family: 'myriad';
+  src:  url('/NewWebsite/public/fonts/myriad_pro_regular.ttf');
+}
+
 html {
   background-color: #17161a;
-  font-family: "Exo", sans-serif;
+  font-family: "myriad";
   color: snow;
   background-image: url("/NewWebsite/public/img/BG.png");
   background-repeat: repeat;

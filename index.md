@@ -12,20 +12,20 @@ layout: home
     </div>
   </div>
   <div class="sectionTriButton">
-    <button class="triButton" style="background-image: url('{{ site.baseurl }}/public/img/games_ps2.png')">
+    <button class="triButton backgroundImageDark" style="background-image: url('{{ site.baseurl }}/public/img/games_ps2.png')">
       <a href="{{ site.baseurl }}/games/">GAME WITH US</a>
     </button>
-    <button class="triButton" style="background-image: url('{{ site.baseurl }}/public/img/games_d2.png')">
+    <button class="triButton backgroundImageDark" style="background-image: url('{{ site.baseurl }}/public/img/games_d2.png')">
       <a href="{{ site.baseurl }}/join/">JOIN US</a>
     </button>
-    <button class="triButton" style="background-image: url('{{ site.baseurl }}/public/img/games_r6.png')">
+    <button class="triButton backgroundImageDark" style="background-image: url('{{ site.baseurl }}/public/img/games_r6.png')">
       <a href="{{ site.baseurl }}/support/">SUPPORT US</a>
     </button>
   </div>
   <div class="sectionGameCatalog">
     <div class="sectionNoBorder">
       <div class="sectionColumnFullWidth">
-        <h2>GAMES WE PLAY</h2>
+        <h2>Something For Everyone</h2>
       </div>
     </div>
     <div class="sectionGameRow">
@@ -41,11 +41,23 @@ layout: home
 
 <div id="container">
   <div id="content">
-    <div class="section hideTopBorder">
+    <div class="heightXXLarge"></div>
+    <div class="section hideTopBorder backgroundGame1 backgroundImageDark backgroundImageTop">
+      <div class="sectionColumnSub">
+        <button class="navButton">
+          <a href="{{ site.baseurl }}/support/">JOIN NOW</a>
+        </button>
+      </div>
       <div class="sectionColumnMain">
-        <h2>ABOUT US</h2>
-        <p>The standard Lorem Ipsum passage, used since the 1500s
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."!</p>
+        <h2>We’ve got your six</h2>
+        <p>Never game alone again, from first-person shooters, to wacky party games, and massive-multiplayer games in between, you’ll always have someone to play with. Come game with us and discover your next favorite game!</p>
+      </div>
+    </div>
+    <div class="section backgroundGame2 backgroundImageDark backgroundImageTop">
+      <div class="sectionColumnMain">
+        <h2>Gaming Is Who We Are</h2>
+        <p>Derp Company is about connecting like-minded adult (18+) gamers to create fun team-based gameplay experiences. We want to make it easier to jump in, socialize, and play with people who care about a positive team experience in any game.</p> 
+        <p>Founded in 2012 in the game Planetside 2, Derp Company has grown into a multi-gaming PC community bringing cooperative experiences throughout major titles we play. We are a home to passionate people who value our mission—empowering an open, fun, PC gaming environment that inspires teamplay.</p>
       </div>
       <div class="sectionColumnSub">
       </div>
@@ -53,13 +65,18 @@ layout: home
     <div class="section">
       <div class="sectionColumnSub">
         <button class="navButton">
-          <a href="{{ site.baseurl }}/support/">VOLUNTEER</a>
+          <a href="{{ site.baseurl }}/support/">SIGN ME UP</a>
         </button>
       </div>
       <div class="sectionColumnMain">
-        <h2>VOLUNTEER</h2>
-        <p>The standard Lorem Ipsum passage, used since the 1500s
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."!</p>
+        <h2>Become A Member</h2>
+        <p>Sign up for exclusive raffles, points system, special discord perks, events and more. We give back to our amazing members!
+          •  Earn points each time you play in quarterly events<br><br>
+          •  Exclusive member-only raffles<br><br>
+          •  #gaming create-a-channel access<br><br>
+          •  Access to #memes [NSFW]<br><br>
+          •  Access to Social Groups<br><br>
+        </p>
       </div>
     </div>
     <div class="section hideBottomBorder">

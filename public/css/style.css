@@ -123,3 +123,20 @@ footer {
 .hideBottomBorder {
   border-bottom: 0px;
 }
+
+.backgroundImageDark {
+  background-color: rgba(0,0,0,.5); /* Tint color */
+  background-blend-mode: multiply;
+}
+
+.backgroundImageTop {
+  background-position: top;
+}
+
+.backgroundGame1 {
+  background-image: url('/NewWebsite/public/img/background_bf.jpg');
+}
+
+.backgroundGame2 {
+  background-image: url('/NewWebsite/public/img/background_halo.webp');
+}

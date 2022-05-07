@@ -192,7 +192,7 @@ footer {
 
 .triButton a {
   display: block;
-  padding: 44px 24px;
+  padding: 64px 24px;
 }
 
 .sectionGameCatalog {
@@ -210,4 +210,25 @@ footer {
 .gameCatalogItem {
   margin: 0px -64px;
   max-height: 350px;
+}
+
+
+.heightSmall {
+  height:4px;
+}
+
+.heightMedium {
+  height:16px;
+}
+
+.heightLarge {
+  height:32px;
+}
+
+.heightXLarge {
+  height:64px;
+}
+
+.heightXXLarge {
+  height:128px;
 }

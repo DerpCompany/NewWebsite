@@ -1,6 +1,6 @@
 body {
   min-height: 600px;
-  margin: 0px;
+  margin: var(--size-none);
 }
 
 header {
@@ -12,23 +12,23 @@ header {
 }
 
 .headerColumn {
-  padding: 10px;
+  padding: var(--size-xsmall);
 	width: 100%;
-	max-width: 500px;
+	max-width: var(--horizontal-quarter);
   text-align: center;
 }
 
 .pagesLink {
-  padding: 0px 16px;
-  margin: 8px;
+  padding: var(--size-none) var(--size-xsmall);
+  margin: var(--size-xxsmall);
 }
 
 #container {
-  margin: 0px 0px;
+  margin: var(--size-none) var(--size-none);
 }
 
 #content {
-  max-width: 1920px;
+  max-width: var(--horizontal-full);
   margin: auto;
 }
 
@@ -42,8 +42,8 @@ header {
 }
 
 .divider {
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: var(--size-xlarge);
+  margin-bottom: var(--size-xlarge);
 }
 
 .centerImage {
@@ -66,14 +66,14 @@ footer {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  padding-top: 10px;
-  padding-bottom: 20px;
+  padding-top: var(--size-xsmall);
+  padding-bottom: var(--size-small);
 }
 
 .footerColumn {
-  padding: 10px;
+  padding: var(--size-xsmall);
 	width: 100%;
-	max-width: 500px;
+	max-width: var(--horizontal-quarter);
   text-align: center;
 }
 
@@ -91,8 +91,8 @@ footer {
 #videoHeader {
   position: absolute;
   z-index: 10;
-  bottom: 0px;
-  left: 0px;
+  bottom: var(--size-none);
+  left: var(--size-none);
   width: 100%;
   height: 100%;
   display: flex;
@@ -102,27 +102,27 @@ footer {
 
 .headervidlink {
   width: 100%;
-	max-width: 1920px;
+	max-width: var(--horizontal-full);
 }
 
 .navButton {
-  margin: 20px;
-  padding:20px 0px
+  margin: var(--size-small);
+  padding: var(--size-small) var(--size-none)
 }
 
 .navButton a {
-  padding:20px 20px;
+  padding: var(--size-small) var(--size-small);
 }
 
 .section {
-  padding: 128px 32px;
+  padding: var(--size-xxlarge) var(--size-medium);
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
 .sectionNoBorder {
-  padding: 32px 64px;
+  padding: var(--size-medium) var(--size-xlarge);
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -130,12 +130,12 @@ footer {
 
 .sectionColumnMain {
 	width: 100%;
-	max-width: 700px;
+	max-width: var(--horizontal-three-eighths);
 }
 
 .sectionColumnSub {
 	width: 100%;
-	max-width: 300px;
+	max-width: var(--horizontal-eighth);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -154,11 +154,11 @@ footer {
 
 #discordEmbed {
 	width: 100%;
-  padding: 0px;
+  padding: var(--size-none);
   height: 600px;
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 960px) {
   .sectionTriButton {
     display: flex;
     flex-wrap: wrap;
@@ -168,12 +168,12 @@ footer {
   }
   
   .triButton {
-    padding: 0px;
+    padding: var(--size-none);
     flex-grow: 1;  
   }  
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 960px) {
   .sectionTriButton {
     display: flex;
     flex-wrap: wrap;
@@ -184,20 +184,20 @@ footer {
   
   .triButton {
     width: 100%;
-    max-width: 500px;
+    max-width: var(--horizontal-quarter);
     text-align: center;
-    padding: 0px;
+    padding: var(--size-none);
   }
 }
 
 .triButton a {
   display: block;
-  padding: 64px 24px;
+  padding: var(--size-xlarge) var(--size-small);
 }
 
 .sectionGameCatalog {
-  padding-top: 64px;
-  padding-bottom: 0px;
+  padding-top: var(--size-xlarge);
+  padding-bottom: var(--size-none);
 }
 
 .sectionGameRow {
@@ -208,27 +208,35 @@ footer {
 }
 
 .gameCatalogItem {
-  margin: 0px -64px;
+  margin: var(--size-none) -64px;
   max-height: 350px;
 }
 
 
+.heightXXSmall {
+  height: var(--size-xxsmall);
+}
+
+.heightXSmall {
+  height: var(--size-xsmall);
+}
+
 .heightSmall {
-  height:4px;
+  height: var(--size-small);
 }
 
 .heightMedium {
-  height:16px;
+  height: var(--size-medium);
 }
 
 .heightLarge {
-  height:32px;
+  height: var(--size-large);
 }
 
 .heightXLarge {
-  height:64px;
+  height: var(--size-xlarge);
 }
 
 .heightXXLarge {
-  height:128px;
+  height: var(--size-xxlarge);
 }

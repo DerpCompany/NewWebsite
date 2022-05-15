@@ -35,6 +35,15 @@ layout: home
       <img class="gameCatalogItem" src="{{ site.baseurl }}/public/img/game-1.png">
       <img class="gameCatalogItem" src="{{ site.baseurl }}/public/img/game-2.png">
       <img class="gameCatalogItem" src="{{ site.baseurl }}/public/img/game-3.png">
+      <img class="gameCatalogItem" src="{{ site.baseurl }}/public/img/game-1.png">
+      <img class="gameCatalogItem" src="{{ site.baseurl }}/public/img/game-2.png">
+      <img class="gameCatalogItem" src="{{ site.baseurl }}/public/img/game-3.png">
+      <img class="gameCatalogItem" src="{{ site.baseurl }}/public/img/game-1.png">
+      <img class="gameCatalogItem" src="{{ site.baseurl }}/public/img/game-2.png">
+      <img class="gameCatalogItem" src="{{ site.baseurl }}/public/img/game-3.png">
+      <img class="gameCatalogItem" src="{{ site.baseurl }}/public/img/game-1.png">
+      <img class="gameCatalogItem" src="{{ site.baseurl }}/public/img/game-2.png">
+      <img class="gameCatalogItem" src="{{ site.baseurl }}/public/img/game-3.png">
     </div>
   </div>
 </div>

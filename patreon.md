@@ -5,7 +5,7 @@ permalink: /patreon/
 index: 5
 ---
 
-<div class="section hideTopBorder">
+<div class="section sectionBorderBottom">
   <div class="sectionColumnMain">
     <h2>Give Back/Become A Super Member</h2>
     <p>Interested in supporting our community? Want to help us continue to do what we love? Then check out our Patreon page for more information and upgrade to our premium supporter roles!</p>
@@ -17,7 +17,7 @@ index: 5
   </div>
 </div>
 
-<div class="section">
+<div class="section sectionBorderBottom">
   <div class="sectionColumnSub">
   </div>
   <div class="sectionColumnMain">
@@ -36,7 +36,7 @@ index: 5
   </div>
 </div>
 
-<div class="section hideBottomBorder">
+<div class="section">
   <div class="sectionColumnMain">
     <h2>How You Are Helping</h2>
     <p>

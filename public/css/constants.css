@@ -1,4 +1,12 @@
 :root {
+
+  --font-size-xsmall: 14px;
+  --font-size-small: 18px;
+  --font-size-medium: 20px;
+  --font-size-large: 26px;
+  --font-size-xlarge: 32px;
+  --font-size-xxlarge: 38px;
+
   --border-xsmall: 1px;
   --border-small: 2px;
   --border-medium: 3px;
@@ -27,7 +35,6 @@
   --vertical-half: 540px;
   --vertical-quarter: 270px;
   --vertical-eighth: 135px;
-
 
   --color-transparet: #00000000;
   --color-text: #fefefe;

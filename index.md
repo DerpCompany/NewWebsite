@@ -23,7 +23,7 @@ layout: home
     </button>
   </div>
   <div class="sectionGameCatalog">
-    <div class="sectionNoBorder">
+    <div class="section verticalPaddingXLarge">
       <div class="sectionColumnFullWidth">
         <h2>Something For Everyone</h2>
       </div>
@@ -51,7 +51,7 @@ layout: home
 <div id="container">
   <div id="content">
     <div class="heightXXLarge"></div>
-    <div class="section hideTopBorder backgroundGame1 backgroundImageDark backgroundImageTop">
+    <div class="section hideTopBorder backgroundGame1 backgroundImageDark backgroundImageTop sectionBorderTop sectionBorderBottom">
       <div class="sectionColumnSub">
         <button class="navButton">
           <a href="{{ site.baseurl }}/support/">JOIN NOW</a>
@@ -62,7 +62,7 @@ layout: home
         <p>Never game alone again, from first-person shooters, to wacky party games, and massive-multiplayer games in between, you’ll always have someone to play with. Come game with us and discover your next favorite game!</p>
       </div>
     </div>
-    <div class="section backgroundGame2 backgroundImageDark backgroundImageTop">
+    <div class="section backgroundGame2 backgroundImageDark backgroundImageTop sectionBorderTop sectionBorderBottom">
       <div class="sectionColumnMain">
         <h2>Gaming Is Who We Are</h2>
         <p>Derp Company is about connecting like-minded adult (18+) gamers to create fun team-based gameplay experiences. We want to make it easier to jump in, socialize, and play with people who care about a positive team experience in any game.</p> 
@@ -71,7 +71,7 @@ layout: home
       <div class="sectionColumnSub">
       </div>
     </div>
-    <div class="section">
+    <div class="section sectionBorderTop sectionBorderBottom">
       <div class="sectionColumnSub">
         <button class="navButton">
           <a href="{{ site.baseurl }}/support/">SIGN ME UP</a>
@@ -88,7 +88,7 @@ layout: home
         </p>
       </div>
     </div>
-    <div class="section hideBottomBorder">
+    <div class="section">
       <div class="sectionColumnMain">
         <iframe id="discordEmbed" src="https://discord.com/widget?id=154310693171101697&theme=dark" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
       </div>

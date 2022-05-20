@@ -1,0 +1,6 @@
+banners:
+  repeat: 5
+  assets:
+    - "game-1.png"
+    - "game-2.png"
+    - "game-3.png"

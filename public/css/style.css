@@ -76,10 +76,6 @@ footer {
   background-color: var(--color-background);
 }
 
-.headervidlink {
-
-}
-
 .navButton {
   background-color: var(--color-transparet);
   border: var(--border-small) solid var(--color-highlight);
@@ -157,4 +153,20 @@ footer {
 
 .backgroundGame2 {
   background-image: url('/NewWebsite/public/img/background_halo.webp');
+}
+
+.triButtonBackground1 {
+  background-image: url('/NewWebsite/public/img/games_ps2.png');
+}
+
+.triButtonBackground2 {
+  background-image: url('/NewWebsite/public/img/games_d2.png');
+}
+
+.triButtonBackground3 {
+  background-image: url('/NewWebsite/public/img/games_r6.png'); 
+}
+
+.bold {
+  font-weight: bold;
 }

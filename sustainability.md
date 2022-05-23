@@ -17,9 +17,9 @@ index: 30
 </div>
 
 <div class="section sectionBorderBottom">
-  <div class="sectionColumnSub">
+  <div class="sectionColumnHalf">
   </div>
-  <div class="sectionColumnMain">
+  <div class="sectionColumnHalf">
     <h2>Why Teemill?</h2>
     <p>
       • First working Circular Economy for clothing<br><br>

@@ -2,7 +2,7 @@
 layout: page
 title: Patreon
 permalink: /patreon/
-index: 5
+index: 1
 ---
 
 <div class="section sectionBorderBottom">
@@ -20,9 +20,9 @@ index: 5
 </div>
 
 <div class="section sectionBorderBottom">
-  <div class="sectionColumnSub">
+  <div class="sectionColumnHalf">
   </div>
-  <div class="sectionColumnMain">
+  <div class="sectionColumnHalf">
     <h2>Get More Out Of Derp</h2>
     <p>Here are some of the perks for becoming a Patreon of Derp Company:<br><br>
       •  Access to our Supporter Lounge :gem:<br><br>

@@ -13,13 +13,13 @@ layout: home
   </div>
   <div class="sectionTriButton">
     <button class="triButton backgroundImageDark triButtonBackground1">
-      <a href="{{ site.baseurl }}/games/">GAME WITH US</a>
+      <a href="{{ site.baseurl }}/sustainability/">SUSTAINABILITY</a>
     </button>
     <button class="triButton backgroundImageDark triButtonBackground2">
-      <a href="{{ site.baseurl }}/join/">JOIN US</a>
+      <a href="{{ site.baseurl }}/events/">QUARTERLY EVENTS</a>
     </button>
     <button class="triButton backgroundImageDark triButtonBackground3">
-      <a href="{{ site.baseurl }}/support/">SUPPORT US</a>
+      <a href="{{ site.baseurl }}/patreon/">PATREON</a>
     </button>
   </div>
   <div class="sectionGameCatalog">

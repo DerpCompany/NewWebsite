@@ -7,15 +7,29 @@ header {
   display: flex;
   flex-wrap: wrap;
   align-content: stretch;
-  justify-content: space-evenly;
+  justify-content: space-around;
   align-items: center;
 }
 
 .headerColumn {
   padding: var(--size-xsmall);
 	width: 100%;
-	max-width: var(--horizontal-quarter);
+	max-width: var(--horizontal-three-eighths);
   text-align: center;
+}
+
+.headerColumnWrapContent {
+	width: initial;
+}
+
+
+@media screen and (max-width: 960px) {
+  header {
+  }
+
+  .headerColumn {
+    max-width: none;
+  }
 }
 
 .pagesLink {
@@ -122,6 +136,11 @@ footer {
   justify-content: center;
 }
 
+.sectionColumnHalf {
+	width: 100%;
+	max-width: var(--horizontal-quarter);
+}
+
 .sectionColumnMain {
 	width: 100%;
 	max-width: var(--horizontal-three-eighths);
@@ -171,9 +190,8 @@ footer {
   }
   
   .triButton {
-    width: 100%;
-    text-align: center;
     padding: var(--size-none);
+    width: 100%;
   }
 }
 

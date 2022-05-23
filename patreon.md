@@ -7,8 +7,10 @@ index: 5
 
 <div class="section sectionBorderBottom">
   <div class="sectionColumnMain">
-    <h2>Give Back/Become A Super Member</h2>
-    <p>Interested in supporting our community? Want to help us continue to do what we love? Then check out our Patreon page for more information and upgrade to our premium supporter roles!</p>
+    <h2>Become A Super Member</h2>
+    <p>
+    Interested in supporting our community? Want to help us continue to do what we love? Then check out our Patreon page for more information and upgrade to our premium supporter roles!
+    </p>
   </div>
   <div class="sectionColumnSub">
     <button class="navButton">

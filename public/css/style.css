@@ -52,6 +52,10 @@ button {
   font-size: var(--font-size-small);
 }
 
+#videoHeader {
+  background-image: linear-gradient(rgba(0,0,0,0) 90%, rgba(0,0,0,0.7));
+}
+
 .pagesLink {
   border-style: none;
   background-color: var(--color-transparet);

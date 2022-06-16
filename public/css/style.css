@@ -142,6 +142,13 @@ footer {
   scrollbar-width: none;  /* Firefox */
 }
 
+.gameCatalogItem {
+  -webkit-mask-image: url(/NewWebsite/public/img/carousell-mask.png);
+  mask-image: url(/NewWebsite/public/img/carousell-mask.png);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;    
+}
+
 .backgroundImageDark {
   background-color: rgba(0,0,0,.5); /* Tint color */
   background-blend-mode: multiply;

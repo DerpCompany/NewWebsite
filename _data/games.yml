@@ -1,6 +1,12 @@
 banners:
-  repeat: 5
+  repeat: 3
   assets:
-    - "game-1.png"
-    - "game-2.png"
-    - "game-3.png"
+    - "games/planetside2.jpg"
+    - "games/rainboxsixsiege.jpg"
+    - "games/armareforger.jpg"
+    - "games/bloodhunt.jpg"
+    - "games/destiny2.jpg"
+    - "games/overwatch2.jpg"
+    - "games/ron.jpg"
+    - "games/ror2.jpg"
+    - "games/warframe.jpg"

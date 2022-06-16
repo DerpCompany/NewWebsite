@@ -49,14 +49,20 @@ layout: home
       </div>
       <div class="sectionColumnMain">
         <h2>We’ve got your six</h2>
-        <p class="bold">Never game alone again, from first-person shooters, to wacky party games, and massive-multiplayer games in between, you’ll always have someone to play with. Come game with us and discover your next favorite game!</p>
+        <p class="bold">       
+        Never game alone. From first-person shooters to wacky party games, and massive-multiplayer experiences in between, there's always room in our party. Come play with us and together we'll discover your next adventure!
+        </p>
       </div>
     </div>
     <div class="section backgroundGame2 backgroundImageDark backgroundImageTop sectionBorderTop sectionBorderBottom">
       <div class="sectionColumnMain">
         <h2>Gaming Is Who We Are</h2>
-        <p class="bold">Derp Company is about connecting like-minded adult (18+) gamers to create fun team-based gameplay experiences. We want to make it easier to jump in, socialize, and play with people who care about a positive team experience in any game.</p> 
-        <p class="bold">Founded in 2012 in the game Planetside 2, Derp Company has grown into a multi-gaming PC community bringing cooperative experiences throughout major titles we play. We are a home to passionate people who value our mission—empowering an open, fun, PC gaming environment that inspires teamplay.</p>
+        <p class="bold">
+        Derp Company is about connecting adult (18+) gamers to create fun team-based gameplay experiences. We want to make it easier to jump in, socialize, and play with people who care about a positive team experience in any game.
+        </p> 
+        <p class="bold">
+        Founded in 2012 in the game Planetside 2, Derp Company has grown into a multi-gaming PC community bringing cooperative experiences throughout the titles we play. We are a home for passionate people who value our mission—empowering an open, fun, PC gaming environment that inspires team play.
+        </p>
       </div>
       <div class="sectionColumnSub">
       </div>
@@ -69,12 +75,13 @@ layout: home
       </div>
       <div class="sectionColumnMain">
         <h2>Become A Member</h2>
-        <p class="bold">Sign up for exclusive raffles, points system, special discord perks, events and more. We give back to our amazing members!
+        <p class="bold">
+        Our membership is important to us, so we've packed it full of amazing perks and benefits. 
           •  Earn points each time you play in quarterly events<br><br>
+          •  Ability to create custom temporary game channels<br><br>
+          •  Unlock joining our Social Groups<br><br>
           •  Exclusive member-only raffles<br><br>
-          •  #gaming create-a-channel access<br><br>
           •  Access to #memes [NSFW]<br><br>
-          •  Access to Social Groups<br><br>
         </p>
       </div>
     </div>

@@ -44,7 +44,7 @@ layout: home
     <div class="section hideTopBorder backgroundGame1 backgroundImageDark backgroundImageTop sectionBorderTop sectionBorderBottom">
       <div class="sectionColumnSub">
         <button class="navButton">
-          <a href="{{ site.baseurl }}/support/">JOIN NOW</a>
+          <a href="{{ site.baseurl }}/join/">JOIN NOW</a>
         </button>
       </div>
       <div class="sectionColumnMain">

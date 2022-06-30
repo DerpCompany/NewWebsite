@@ -6,6 +6,9 @@
 </button>
 {% assign pages_list = (site.pages | sort: 'index') %}
 {% for node in pages_list %}
+  {% if node.index >= 100 %}
+    {% continue %}
+  {% endif %}  
   {% if node.title != null %}
     {% if node.title == "Home" %}
       {% continue %}

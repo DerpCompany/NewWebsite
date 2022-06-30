@@ -70,7 +70,7 @@ layout: home
     <div class="section sectionBorderTop sectionBorderBottom">
       <div class="sectionColumnSub">
         <button class="navButton">
-          <a href="{{ site.baseurl }}/support/">SIGN ME UP</a>
+          <a href="{{ site.baseurl }}/patreon/">SIGN ME UP</a>
         </button>
       </div>
       <div class="sectionColumnMain">

@@ -14,7 +14,7 @@ index: 1
   </div>
   <div class="sectionColumnSub">
     <button class="navButton">
-          <a href="https://www.patreon.com/derpcompany">PATREON</a>
+      <a href="https://www.patreon.com/bePatron?u=71975005">PATREON</a>
     </button>
   </div>
 </div>

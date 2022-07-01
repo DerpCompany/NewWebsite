@@ -158,12 +158,31 @@ footer {
   background-position: top;
 }
 
+.backgroundImageCenter {
+  background-position: top;
+  background-size: cover;
+}
+
+.backgroundImageLeft {
+  background-position: left;
+  background-size: cover;
+}
+
+.backgroundImageRight {
+  background-position: right;
+  background-size: cover;
+}
+
 .backgroundGame1 {
-  background-image: url('/NewWebsite/public/img/background_bf.jpg');
+  background-image: url('/NewWebsite/public/img/tj-foo-vikingdragon.png');
 }
 
 .backgroundGame2 {
-  background-image: url('/NewWebsite/public/img/background_halo.webp');
+  background-image: url('/NewWebsite/public/img/vanu_party3.png');
+}
+
+.backgroundGame3 {
+  background-image: url('/NewWebsite/public/img/y5s4_2.png');
 }
 
 .triButtonBackground1 {
@@ -176,6 +195,22 @@ footer {
 
 .triButtonBackground3 {
   background-image: url('/NewWebsite/public/img/games_r6.png'); 
+}
+
+.triButtonBackground4 {
+  background-image: url('/NewWebsite/public/img/d2withqueen.png'); 
+}
+
+.triButtonBackground5 {
+  background-image: url('/NewWebsite/public/img/vampire-the-masquerade-bloodhunt--key-art-05-ps5-en-4may22.jpg'); 
+}
+
+.triButtonBackground6 {
+  background-image: url('/NewWebsite/public/img/ron_cutout.png'); 
+}
+
+.triButtonBackground7 {
+  background-image: url('/NewWebsite/public/img/overwatchheros2.png'); 
 }
 
 .bold {

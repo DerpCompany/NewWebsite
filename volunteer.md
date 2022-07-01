@@ -5,7 +5,7 @@ permalink: /volunteer/
 index: 1
 ---
 
-<div class="section sectionBorderBottom">
+<div class="section sectionBorderBottom triButtonBackground5 backgroundImageDark backgroundImageCenter">
   <div class="sectionColumnMain">
     <h2>We’d love to work with someone like you!</h2>
     <p>  
@@ -19,7 +19,7 @@ index: 1
   </div>
 </div>
 
-<div class="section sectionBorderBottom">
+<div class="section sectionBorderBottom triButtonBackground6 backgroundImageDark backgroundImageLeft">
   <div class="sectionColumnSub">
   </div>
   <div class="sectionColumnMain">
@@ -32,7 +32,7 @@ index: 1
   </div>
 </div>
 
-<div class="section sectionBorderBottom">
+<div class="section sectionBorderBottom triButtonBackground7 backgroundImageDark backgroundImageRight">
   <div class="sectionColumnMain">
     <h2>What makes a volunteer?</h2>
     <p>  

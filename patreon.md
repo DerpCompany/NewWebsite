@@ -5,7 +5,7 @@ permalink: /patreon/
 index: 1
 ---
 
-<div class="section sectionBorderBottom">
+<div class="section sectionBorderBottom triButtonBackground4 backgroundImageDark backgroundImageCenter">
   <div class="sectionColumnMain">
     <h2>Become A Super Member</h2>
     <p>  

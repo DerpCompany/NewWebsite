@@ -41,7 +41,7 @@ layout: home
 <div id="container">
   <div id="content">
     <div class="heightXXLarge"></div>
-    <div class="section hideTopBorder backgroundGame1 backgroundImageDark backgroundImageTop sectionBorderTop sectionBorderBottom">
+    <div class="section hideTopBorder backgroundGame1 backgroundImageDark backgroundImageCenter sectionBorderTop sectionBorderBottom">
       <div class="sectionColumnSub">
         <button class="navButton">
           <a href="{{ site.baseurl }}/join/">JOIN NOW</a>
@@ -54,7 +54,7 @@ layout: home
         </p>
       </div>
     </div>
-    <div class="section backgroundGame2 backgroundImageDark backgroundImageTop sectionBorderTop sectionBorderBottom">
+    <div class="section backgroundGame2 backgroundImageDark backgroundImageCenter sectionBorderTop sectionBorderBottom">
       <div class="sectionColumnMain">
         <h2>Gaming Is Who We Are</h2>
         <p class="bold">
